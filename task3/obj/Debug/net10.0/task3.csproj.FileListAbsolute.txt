@@ -1,0 +1,14 @@
+/home/hacker/C##/kurci C# .NET/H5h4/task3/bin/Debug/net10.0/task3
+/home/hacker/C##/kurci C# .NET/H5h4/task3/bin/Debug/net10.0/task3.deps.json
+/home/hacker/C##/kurci C# .NET/H5h4/task3/bin/Debug/net10.0/task3.runtimeconfig.json
+/home/hacker/C##/kurci C# .NET/H5h4/task3/bin/Debug/net10.0/task3.dll
+/home/hacker/C##/kurci C# .NET/H5h4/task3/bin/Debug/net10.0/task3.pdb
+/home/hacker/C##/kurci C# .NET/H5h4/task3/obj/Debug/net10.0/task3.GeneratedMSBuildEditorConfig.editorconfig
+/home/hacker/C##/kurci C# .NET/H5h4/task3/obj/Debug/net10.0/task3.AssemblyInfoInputs.cache
+/home/hacker/C##/kurci C# .NET/H5h4/task3/obj/Debug/net10.0/task3.AssemblyInfo.cs
+/home/hacker/C##/kurci C# .NET/H5h4/task3/obj/Debug/net10.0/task3.csproj.CoreCompileInputs.cache
+/home/hacker/C##/kurci C# .NET/H5h4/task3/obj/Debug/net10.0/task3.dll
+/home/hacker/C##/kurci C# .NET/H5h4/task3/obj/Debug/net10.0/refint/task3.dll
+/home/hacker/C##/kurci C# .NET/H5h4/task3/obj/Debug/net10.0/task3.pdb
+/home/hacker/C##/kurci C# .NET/H5h4/task3/obj/Debug/net10.0/task3.genruntimeconfig.cache
+/home/hacker/C##/kurci C# .NET/H5h4/task3/obj/Debug/net10.0/ref/task3.dll

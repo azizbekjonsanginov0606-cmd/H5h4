@@ -1,0 +1,14 @@
+/home/hacker/C##/kurci C# .NET/H5h4/task5/bin/Debug/net10.0/task5
+/home/hacker/C##/kurci C# .NET/H5h4/task5/bin/Debug/net10.0/task5.deps.json
+/home/hacker/C##/kurci C# .NET/H5h4/task5/bin/Debug/net10.0/task5.runtimeconfig.json
+/home/hacker/C##/kurci C# .NET/H5h4/task5/bin/Debug/net10.0/task5.dll
+/home/hacker/C##/kurci C# .NET/H5h4/task5/bin/Debug/net10.0/task5.pdb
+/home/hacker/C##/kurci C# .NET/H5h4/task5/obj/Debug/net10.0/task5.GeneratedMSBuildEditorConfig.editorconfig
+/home/hacker/C##/kurci C# .NET/H5h4/task5/obj/Debug/net10.0/task5.AssemblyInfoInputs.cache
+/home/hacker/C##/kurci C# .NET/H5h4/task5/obj/Debug/net10.0/task5.AssemblyInfo.cs
+/home/hacker/C##/kurci C# .NET/H5h4/task5/obj/Debug/net10.0/task5.csproj.CoreCompileInputs.cache
+/home/hacker/C##/kurci C# .NET/H5h4/task5/obj/Debug/net10.0/task5.dll
+/home/hacker/C##/kurci C# .NET/H5h4/task5/obj/Debug/net10.0/refint/task5.dll
+/home/hacker/C##/kurci C# .NET/H5h4/task5/obj/Debug/net10.0/task5.pdb
+/home/hacker/C##/kurci C# .NET/H5h4/task5/obj/Debug/net10.0/task5.genruntimeconfig.cache
+/home/hacker/C##/kurci C# .NET/H5h4/task5/obj/Debug/net10.0/ref/task5.dll
