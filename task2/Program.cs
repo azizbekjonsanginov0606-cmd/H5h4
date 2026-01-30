@@ -4,7 +4,7 @@ int cnt=0;
 while (true)
 {
     Console.Write("> ");
-    string? a = Console.ReadLine();
+    string? a = Console.ReadLine().ToLower();
     // if (a=="end")
     // {
     //     break;
