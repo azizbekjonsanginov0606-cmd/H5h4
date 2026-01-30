@@ -5,14 +5,12 @@ while (true)
 {
     Console.Write("> ");
     string? a = Console.ReadLine().ToLower();
-    // if (a=="end")
-    // {
-    //     break;
-    // }
-    // cnt++;
-    if (a != "end")
-        cnt++;
-    else
-    break;
+     if (a=="end")
+          break;
+     cnt++;
+  //  if (a != "end")
+   //     cnt++;
+   // else
+  //  break;
 }
 Console.WriteLine(cnt);
